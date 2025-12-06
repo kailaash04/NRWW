@@ -3,7 +3,7 @@ import 'package:nrw/community_forum.dart';
 import 'package:nrw/complaint.dart';
 import 'package:nrw/main.dart';
 import 'package:url_launcher/url_launcher.dart';
-import 'manage.dart'; 
+import 'manage.dart';
 class Centers extends StatelessWidget {
   const Centers({Key? key}) : super(key: key);
 
